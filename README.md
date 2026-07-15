@@ -31,5 +31,5 @@ Fun Fact: I love baking!
 [<img align="left" alt="JustinSaldavia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [facebook]: https://www.facebook.com/justin.saldavia
-[linkedin]: www.linkedin.com/in/justin-saldavia-037a07363
+[linkedin]: https://www.linkedin.com/in/justin-saldavia-037a07363
 [instagram]: https://www.instagram.com/saldavia.jus?igsh=NXM2a240czM4d2F0
