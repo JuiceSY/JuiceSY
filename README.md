@@ -15,11 +15,10 @@
 <h2>🎮 Game Projects:</h2>
   
 - <b>Godot Games</b>
-  - [ACES Website - school organization website]()
-  - [React Leaflet and Other API Practice]()
+  - [CodeInvaders - parody game of Space Invaders]()
+  - [CashewRun - 2 Player maze escape]()
 - <b>Java Games</b>
-  - [usePopcorn - movie rating website]()
-  - [React Quiz - short quiz about react]()
+  - [Queue&Brew - data stracture game]()
 
 
 Fun Fact: I love baking! 
