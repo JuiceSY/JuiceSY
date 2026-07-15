@@ -4,21 +4,21 @@
   
 - <b>SPAs with Backend</b>
   - [ACES Website - school organization website](https://github.com/JuiceSY/aces-website)
-  - [WorldWise - API using json server]()
+  - [WorldWise - API using json server](https://github.com/JuiceSY/world-wise)
 - <b>React Hook & API Practices</b>
-  - [usePopcorn - movie rating website]()
-  - [React Quiz - short quiz about react]()
+  - [usePopcorn - movie rating website](https://github.com/JuiceSY/use-popcorn)
+  - [React Quiz - short quiz about react](https://github.com/JuiceSY/react-quiz)
 - <b>React Fundamental Practice</b>
-  - [Malaysian Needs - travel checklist]()
-  - [Pizza Menu - just a pizza menu]()
+  - [Malaysian Needs - travel checklist](https://github.com/JuiceSY/travel-checklist)
+  - [Pizza Menu - just a pizza menu](https://github.com/JuiceSY/pizza-menu)
 
 <h2>🎮 Game Projects:</h2>
   
 - <b>Godot Games</b>
-  - [CodeInvaders - parody game of Space Invaders]()
-  - [CashewRun - 2 Player maze escape]()
+  - [CodeInvaders - parody game of Space Invaders](https://github.com/JuiceSY/code-invaders)
+  - [Alamat ng Casoy - 2 Player maze escape](https://github.com/JuiceSY/casoy-run)
 - <b>Java Games</b>
-  - [Queue&Brew - data stracture game]()
+  - [Queue&Brew - data stracture game](https://github.com/JuiceSY/queue-brew)
 
 
 Fun Fact: I love baking! 
