@@ -26,9 +26,17 @@ Fun Fact: I love baking!
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JustinSaldavia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="JustinSaldavia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JustinSaldavia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- Facebook -->
+[<img align="left" alt="JustinSaldavia | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/white#gh-dark-mode-only" />][facebook]
+[<img align="left" alt="JustinSaldavia | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/black#gh-light-mode-only" />][facebook]
+
+<!-- Instagram -->
+[<img align="left" alt="JustinSaldavia | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/white#gh-dark-mode-only" />][instagram]
+[<img align="left" alt="JustinSaldavia | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black#gh-light-mode-only" />][instagram]
+
+<!-- LinkedIn -->
+[<img align="left" alt="JustinSaldavia | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white#gh-dark-mode-only" />][linkedin]
+[<img align="left" alt="JustinSaldavia | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black#gh-light-mode-only" />][linkedin]
 
 [facebook]: https://www.facebook.com/justin.saldavia
 [linkedin]: www.linkedin.com/in/justin-saldavia-037a07363
